@@ -1,0 +1,2 @@
+"hello my friend Odin and git"
+this is the practice time. my first practice of how to work with the git repository, like to clone then add to stage sate with git add <filename>, and then set it to the commit state with git commit <fileName>. then open it on code editor, eith code .  and then make some changes and then follow the stpes from staging them to commit.
